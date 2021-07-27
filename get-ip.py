@@ -1,3 +1,8 @@
+#ce script a été créé par Fidegnon Mahougnon Elisé dans le but de favoriser la découverte de l'adresse IP de votre machine surtout au débutants
+#****************************Bienvenue**********************
+# Auteur : Fidegnon Mahougnon Elisé
+#adresse WhatsApp : https://wa.me/+22965424731
+# page Youtube : https://youtube.com/channel/UCvv_Gx64B0GMX-tHrQUyZmQ
 from os import system as sys
 from urllib.request import urlopen
 from urllib.request import Request
